@@ -14,6 +14,7 @@
 		2B4140CE2B094FE100A41ACF /* WeSplitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B4140CD2B094FE100A41ACF /* WeSplitTests.swift */; };
 		2B4140D82B094FE100A41ACF /* WeSplitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B4140D72B094FE100A41ACF /* WeSplitUITests.swift */; };
 		2B4140DA2B094FE100A41ACF /* WeSplitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B4140D92B094FE100A41ACF /* WeSplitUITestsLaunchTests.swift */; };
+		2B6F73C62B1356A400E12B87 /* LengthConverterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B6F73C52B1356A400E12B87 /* LengthConverterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		2B4140D32B094FE100A41ACF /* WeSplitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeSplitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B4140D72B094FE100A41ACF /* WeSplitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitUITests.swift; sourceTree = "<group>"; };
 		2B4140D92B094FE100A41ACF /* WeSplitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2B6F73C52B1356A400E12B87 /* LengthConverterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthConverterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				2B4140BE2B094FDF00A41ACF /* ContentView.swift */,
 				2B4140C02B094FE100A41ACF /* Assets.xcassets */,
 				2B4140C22B094FE100A41ACF /* Preview Content */,
+				2B6F73C52B1356A400E12B87 /* LengthConverterView.swift */,
 			);
 			path = WeSplit;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				2B4140BF2B094FDF00A41ACF /* ContentView.swift in Sources */,
 				2B4140BD2B094FDF00A41ACF /* WeSplitApp.swift in Sources */,
+				2B6F73C62B1356A400E12B87 /* LengthConverterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
