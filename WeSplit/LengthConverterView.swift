@@ -76,7 +76,7 @@ struct LengthConverterView: View {
                         .focused($isInputUnitFocused)
                 }
                 
-                Text(unitConverter.formatted())
+                Text("\(unitConverter.formatted()) \(outputUnit)")
             }
             .navigationTitle("Length convertion")
             .toolbar {
